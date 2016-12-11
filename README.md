@@ -11,7 +11,7 @@
 
 ## Сайты:
 
-1. leetcode.com
-2. informatics.mccme.ru
-3. e-maxx.ru/algo/
-4. Лекции по алгоритмам ШАД
+1. [leetcode.com] (https://leetcode.com)
+2. [informatics.mccme.ru] ( informatics.mccme.ru)
+3. [e-maxx.ru/algo/] (http://e-maxx.ru/algo/)
+4. [Лекции по алгоритмам ШАД] (https://wiki.school.yandex.ru/shad/videocollections2.0/)
