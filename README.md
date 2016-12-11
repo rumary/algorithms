@@ -6,13 +6,18 @@
 Книги:
 
 Шень: Программирование: теоремы и задачи
+
 Кормен, Лейзерсон, Ривест, Штейн: Алгоритмы: построение и анализ
+
 Cracking the coding interview
 
 Сайты:
 
 leetcode.com
+
 informatics.mccme.ru
+
 e-maxx.ru/algo/
+
 Лекции по алгоритмам ШАД
 
