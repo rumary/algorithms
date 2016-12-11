@@ -1,5 +1,3 @@
-//
-//  main.cpp
 //  two_sum_2
 //
 //  Created by Maria Ryzhova on 11.12.16.
@@ -10,22 +8,28 @@
 using namespace std;
 
 int main(int argc, const char * argv[]) {
-    int a[] = {3,4,5,6,7};
+    int a[] = {-2, -1, 0, 3, 5, 6, 7, 9, 13, 14};
     int size = sizeof(a)/sizeof(int);
-    int sum = 11;
+    int sum = 12;
     int i = 0;
     int j = size-1;
     sort(a, a + size);
     int sum1;
+
     while (i<j){
         sum1 = a[i]+a[j];
-        if (sum1<sum)
-            i++;
-        else if (sum1>sum)
-            j--;
-        else {
+        if (sum1 == sum){
             cout<< i <<" and "<< j <<endl;
-            return 0;
+            i++;
+            j--;
+        }
+        else {
+            if (sum1<sum) {
+                i++;
+            }
+            else {
+                j--;
+            }
         }
     }
     return 0;
