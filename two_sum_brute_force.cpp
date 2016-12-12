@@ -64,3 +64,34 @@ int* twoSum(int* nums, int size, int target) {
     }
     return 0;
 }
+
+##third variant
+
+#include <iostream>
+using namespace std;
+
+void twoSum(int* nums, int size, int target, int* answer);
+
+int main() {
+    int nums[] = {7,2,3,4,5};
+    int target = 5;
+    int size = sizeof(nums)/sizeof(int);
+    int* answer;
+    answer = new int [2];
+    twoSum(nums, size, target, answer);
+    cout<<"elements numbers are "<<answer[0]<<" and "<<answer[1]<<endl;
+    delete [] answer;
+    return 0;
+    
+}
+
+void twoSum(int* nums, int size, int target, int* answer) {
+    for (int i = 0; i < size; i++) {
+        for (int j = i + 1; j < size; j++) {
+            if (nums[j] == target - nums[i]) {
+                answer[0] = i;
+                answer[1] = j;
+            }
+        }
+    }
+}
