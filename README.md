@@ -34,5 +34,5 @@
 10. [51 идея](https://www.quora.com/Data-Science/What-are-some-good-toy-problems-in-data-science/answer/Alex-Kamil) для тренировочных задачек (*toy data problem*) в Data Science;
 11. [Dive into Machine Learning](http://hangtwenty.github.io/dive-into-machine-learning/) ([:octocat: repo on github](https://github.com/hangtwenty/dive-into-machine-learning)) with Python Jupyter notebook and scikit-learn;
 
-###
-*[Куча] (https://habrahabr.ru/post/112222/)
+### Структуры
+1. [Куча] (https://habrahabr.ru/post/112222/)
