@@ -95,3 +95,33 @@ void twoSum(int* nums, int size, int target, int* answer) {
         }
     }
 }
+
+
+##4rd variant
+
+#include <iostream>
+using namespace std;
+
+std::pair<int,int> twoSum(int* nums, int size, int target);
+
+int main() {
+    int nums[] = {7,2,3,4,5};
+    int target = 5;
+    int size = sizeof(nums)/sizeof(int);
+    std::pair<int,int> answer;
+    answer = twoSum(nums, size, target);
+    cout<<"elements numbers are "<<answer.first<<" and "<<answer.second<<endl;
+    return 0;
+    
+}
+
+std::pair<int,int> twoSum(int* nums, int size, int target) {
+    for (int i = 0; i < size; i++) {
+        for (int j = i + 1; j < size; j++) {
+            if (nums[j] == target - nums[i]) {
+                return std::make_pair (i,j);
+            }
+        }
+    }
+    return make_pair(-1,0);
+}
