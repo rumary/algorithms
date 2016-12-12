@@ -16,3 +16,10 @@
 2. [informatics.mccme.ru] ( informatics.mccme.ru)
 3. [e-maxx.ru/algo/] (http://e-maxx.ru/algo/)
 4. [Лекции по алгоритмам ШАД] (https://wiki.school.yandex.ru/shad/videocollections2.0/)
+
+
+
+
+
+##Мои ссылки (аналитика, Python, ML)
+1. [Bash для анализа данных] (http://www.datamazing.co.uk/2014/01/25/working-with-data-on-the-command-line#.V8lbomOson2)
