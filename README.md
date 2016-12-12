@@ -23,3 +23,4 @@
 
 ##Мои ссылки (аналитика, Python, ML)
 1. [Bash для анализа данных] (http://www.datamazing.co.uk/2014/01/25/working-with-data-on-the-command-line#.V8lbomOson2)
+2. [Cеминары по ML, ВМК] (https://github.com/esokolov/ml-course-msu)
