@@ -153,3 +153,32 @@ void twoSum(int* nums, int size, int target, int* i, int* j) {
         }
     }
 }
+
+
+##variant number 6
+
+#include <iostream>
+using namespace std;
+
+void twoSum(int* nums, int size, int target, int& i, int& j);
+
+int main() {
+    int nums[] = {7,2,3,4,5};
+    int target = 5;
+    int size = sizeof(nums)/sizeof(int);
+    int i,j;
+    twoSum(nums, size, target, i, j);
+    cout<<"elements numbers are "<<i<<" and "<<j<<endl;
+    return 0;
+    
+}
+
+void twoSum(int* nums, int size, int target, int& i, int& j) {
+    for (i = 0; i < size; i++) {
+        for (j = i + 1; j < size; j++) {
+            if (nums[j] == target - nums[i]) {
+                return;
+            }
+        }
+    }
+}
