@@ -21,7 +21,7 @@
 
 
 
-##Мои ссылки (аналитика, Python, ML)
+##Мои ссылки (аналитика, ML, Python)
 1. [Bash для анализа данных] (http://www.datamazing.co.uk/2014/01/25/working-with-data-on-the-command-line#.V8lbomOson2)
 2. [Cеминары по ML, ВМК] (https://github.com/esokolov/ml-course-msu)
 3. [e-maxx.ru](http://e-maxx.ru/algo/) – здесь представлено 145 алгоритмов. Ко всем алгоритмам даны краткие описания и программы на C++
