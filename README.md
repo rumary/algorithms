@@ -35,5 +35,6 @@
 11. [Dive into Machine Learning](http://hangtwenty.github.io/dive-into-machine-learning/) ([:octocat: repo on github](https://github.com/hangtwenty/dive-into-machine-learning)) with Python Jupyter notebook and scikit-learn;
 12. [Шпаргалки по Python] (https://www.pythonsheets.com/notes/python-basic.html#check-object-attributes)
 
-### Структуры
+### Алгоритмы, Структуры
 1. [Куча] (https://habrahabr.ru/post/112222/)
+2. [Реализованные алгоритым ](https://github.com/TheAlgorithms/Python)
