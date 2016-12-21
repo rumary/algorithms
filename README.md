@@ -38,3 +38,6 @@
 ### Алгоритмы, Структуры
 1. [Куча] (https://habrahabr.ru/post/112222/)
 2. [Реализованные алгоритым ](https://github.com/TheAlgorithms/Python)
+
+
+[Как написать своего телеграм-бота] (https://habrahabr.ru/post/316666/)
