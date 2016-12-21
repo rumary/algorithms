@@ -34,11 +34,12 @@
 10. [51 идея](https://www.quora.com/Data-Science/What-are-some-good-toy-problems-in-data-science/answer/Alex-Kamil) для тренировочных задачек (*toy data problem*) в Data Science;
 11. [Dive into Machine Learning](http://hangtwenty.github.io/dive-into-machine-learning/) ([:octocat: repo on github](https://github.com/hangtwenty/dive-into-machine-learning)) with Python Jupyter notebook and scikit-learn;
 12. [Шпаргалки по Python] (https://www.pythonsheets.com/notes/python-basic.html#check-object-attributes)
+13. [Книги по Python] (https://github.com/Junnplus/awesome-python-books)
 
 ### Алгоритмы, Структуры
 1. [Куча] (https://habrahabr.ru/post/112222/)
 2. [Реализованные алгоритым ](https://github.com/TheAlgorithms/Python)
 
-
+### Всякое
 [Как написать своего телеграм-бота] (https://habrahabr.ru/post/316666/)
 [Как написать своего телеграм-бота - 2] (https://habrahabr.ru/post/278847/)
