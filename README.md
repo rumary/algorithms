@@ -41,6 +41,6 @@
 2. [Реализованные алгоритым ](https://github.com/TheAlgorithms/Python)
 
 ### Всякое
-1.[Как написать своего телеграм-бота] (https://habrahabr.ru/post/316666/)
-2.[Как написать своего телеграм-бота - 2] (https://habrahabr.ru/post/278847/)
-3.[шпаргалка по консольным командам bash](https://github.com/nicothin/web-4.development/blob/727ba4c8c3ce85e5788887a08d9f14771a9c3a52/git/readme.md)
+1. [Как написать своего телеграм-бота] (https://habrahabr.ru/post/316666/)
+2. [Как написать своего телеграм-бота - 2] (https://habrahabr.ru/post/278847/)
+3. [шпаргалка по консольным командам bash](https://github.com/nicothin/web-development/blob/727ba4c8c3ce85e5788887a08d9f14771a9c3a52/git/readme.md)
