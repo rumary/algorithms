@@ -16,7 +16,7 @@ int main() {
     
     double b = v[0];
     double t;
-    for (int i=1; i<4; i++){
+    for (int i=1; i<v.size(); i++){
         
         t = v[i];
         v[i] = (b+v[i+1])/2;
