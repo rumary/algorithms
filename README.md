@@ -36,6 +36,10 @@
 12. [Шпаргалки по Python] (https://www.pythonsheets.com/notes/python-basic.html#check-object-attributes)
 13. [Книги по Python] (https://github.com/Junnplus/awesome-python-books)
 14. [Выбор алгоритма scilit-learn](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
+15. [Разбор Титаника](https://github.com/agconti/kaggle-titanic/blob/master/Titanic.ipynb)
+16. [Dive into ML](http://hangtwenty.github.io/dive-into-machine-learning/)
+17. [Stacking Classifier] (http://rasbt.github.io/mlxtend/user_guide/classifier/StackingClassifier/)
+
 ### Алгоритмы, Структуры
 1. [Куча] (https://habrahabr.ru/post/112222/)
 2. [Реализованные алгоритым ](https://github.com/TheAlgorithms/Python)
