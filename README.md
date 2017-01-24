@@ -23,7 +23,6 @@
 ### аналитика, ML, Python
 1. [Bash для анализа данных] (http://www.datamazing.co.uk/2014/01/25/working-with-data-on-the-command-line#.V8lbomOson2)
 2. [Cеминары по ML, ВМК] (https://github.com/esokolov/ml-course-msu)
-3. [e-maxx.ru](http://e-maxx.ru/algo/) – здесь представлено 145 алгоритмов. Ко всем алгоритмам даны краткие описания и программы на C++
 4. [100 репозиториев по машинному обучению](http://meta-guide.com/software-meta-guide/100-best-github-machine-learning);
 5. [51 идея](https://www.quora.com/Data-Science/What-are-some-good-toy-problems-in-data-science/answer/Alex-Kamil) для тренировочных задачек (*toy data problem*) в Data Science;
 6. [Dive into Machine Learning](http://hangtwenty.github.io/dive-into-machine-learning/) ([:octocat: repo on github](https://github.com/hangtwenty/dive-into-machine-learning)) with Python Jupyter notebook and scikit-learn;
