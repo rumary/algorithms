@@ -42,6 +42,7 @@
 6. [e-maxx.ru](http://e-maxx.ru/algo/) – здесь представлено 145 алгоритмов. Ко всем алгоритмам даны краткие описания и программы на C++
 7. [Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/)
 8. [Алгоритмы и структуры данных](https://www.youtube.com/playlist?list=PLlb7e2G7aSpQutUr7qYIunvm04cqdr5mx) – записи онлайн-курса Александра Куликова из Computer Science Center
+9. [Сложность алгоритмов] (http://bigocheatsheet.com)
 
 ### Всякое
 1. [Как написать своего телеграм-бота] (https://habrahabr.ru/post/316666/)
