@@ -32,6 +32,7 @@
 10. [Разбор Титаника](https://github.com/agconti/kaggle-titanic/blob/master/Titanic.ipynb)
 11. [Dive into ML](http://hangtwenty.github.io/dive-into-machine-learning/)
 12. [Stacking Classifier] (http://rasbt.github.io/mlxtend/user_guide/classifier/StackingClassifier/)
+13. [Байесовские методы в машинном обучении] (https://bayesgroup.github.io)
 
 ### Алгоритмы, Структуры
 1. [Куча] (https://habrahabr.ru/post/112222/)
