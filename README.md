@@ -45,6 +45,9 @@
 8. [Алгоритмы и структуры данных](https://www.youtube.com/playlist?list=PLlb7e2G7aSpQutUr7qYIunvm04cqdr5mx) – записи онлайн-курса Александра Куликова из Computer Science Center
 9. [Сложность алгоритмов] (http://bigocheatsheet.com)
 
+###Визуализация
+1. [Bokeh] http://nbviewer.jupyter.org/github/bokeh/bokeh-notebooks/blob/master/index.ipynb
+
 ### Всякое
 1. [Как написать своего телеграм-бота] (https://habrahabr.ru/post/316666/)
 2. [Как написать своего телеграм-бота - 2] (https://habrahabr.ru/post/278847/)
