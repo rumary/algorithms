@@ -46,7 +46,7 @@
 9. [Сложность алгоритмов] (http://bigocheatsheet.com)
 
 ###Визуализация
-1. [Bokeh] http://nbviewer.jupyter.org/github/bokeh/bokeh-notebooks/blob/master/index.ipynb
+1. [Bokeh] (http://nbviewer.jupyter.org/github/bokeh/bokeh-notebooks/blob/master/index.ipynb)
 
 ### Всякое
 1. [Как написать своего телеграм-бота] (https://habrahabr.ru/post/316666/)
