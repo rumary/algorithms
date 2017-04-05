@@ -23,8 +23,8 @@
 ### аналитика, ML, Python
 1. [Bash для анализа данных] (http://www.datamazing.co.uk/2014/01/25/working-with-data-on-the-command-line#.V8lbomOson2)
 2. [Cеминары по ML, ВМК] (https://github.com/esokolov/ml-course-msu)
-4. [100 репозиториев по машинному обучению](http://meta-guide.com/software-meta-guide/100-best-github-machine-learning);
-5. [51 идея](https://www.quora.com/Data-Science/What-are-some-good-toy-problems-in-data-science/answer/Alex-Kamil) для тренировочных задачек (*toy data problem*) в Data Science;
+4. [100 репозиториев по машинному обучению](http://meta-guide.com/software-meta-guide/100-best-github-machine-learning)
+5. [51 идея](https://www.quora.com/Data-Science/What-are-some-good-toy-problems-in-data-science/answer/Alex-Kamil) для тренировочных задачек (*toy data problem*) в Data Science
 6. [Dive into Machine Learning](http://hangtwenty.github.io/dive-into-machine-learning/) ([:octocat: repo on github](https://github.com/hangtwenty/dive-into-machine-learning)) with Python Jupyter notebook and scikit-learn;
 7. [Шпаргалки по Python] (https://www.pythonsheets.com/notes/python-basic.html#check-object-attributes)
 8. [Книги по Python] (https://github.com/Junnplus/awesome-python-books)
@@ -33,6 +33,7 @@
 11. [Dive into ML](http://hangtwenty.github.io/dive-into-machine-learning/)
 12. [Stacking Classifier] (http://rasbt.github.io/mlxtend/user_guide/classifier/StackingClassifier/)
 13. [Байесовские методы в машинном обучении] (https://bayesgroup.github.io)
+14. [Примеры интересных ноутбуков] (http://nb.bianp.net/sort/views/)
 
 ### Алгоритмы, Структуры
 1. [Куча] (https://habrahabr.ru/post/112222/)
